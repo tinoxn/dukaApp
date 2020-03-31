@@ -1,0 +1,7 @@
+{
+  "name": "DukaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
